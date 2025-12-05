@@ -23,6 +23,7 @@ nav a:hover{
 }
 
 .banner{
+  text-align:center; 
   background-color:blue;
   color:white;
 }
