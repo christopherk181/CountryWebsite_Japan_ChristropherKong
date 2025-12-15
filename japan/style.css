@@ -77,3 +77,11 @@ nav a:hover {
   padding: 10px;
   margin: 20px;
 }
+#pic img{
+  filter:opacity(50%)
+}
+
+
+#pic img:hover{
+  filter: opacity(100%);
+}
